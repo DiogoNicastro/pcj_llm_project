@@ -38,6 +38,9 @@ Uso pontual de LLM, com custo reduzido e finalidade interpretativa.
 Equipe
 
 Caua Ricci
+
 Diogo Nicastro
+
 Henry Demetrio
+
 Rodrigo Andrino
